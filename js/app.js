@@ -1,3 +1,5 @@
+alert("Currently Not Optimized For Smartphones"); 
+
 // Some Html Elements
 const divRecentChat = document.querySelector('.recentChats');
 const chatSection = document.querySelector('.chatSection');
