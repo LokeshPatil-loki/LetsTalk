@@ -157,10 +157,10 @@ const createMessageItem = messageItemModel => {
 }
 
 let recentChatList =  [
-    RecentChatItemModel('resources/user1.jpeg','Abhijeet Patil','Me karto handle issue.','10/10/2020',true),
-    RecentChatItemModel('resources/user2.jpeg','Ashutosh Mhatre','Devala manat nahi pan tula manato.','10/10/2020',false),
-    RecentChatItemModel('resources/user4.jpeg','Nishant Kate','Ma','10/10/2020',false),
-    RecentChatItemModel('resources/user3.jpeg','Mamita Mokal','Lorem ipsum dolor sit amet.','10/10/2020',true),
+//     RecentChatItemModel('resources/user1.jpeg','Abhijeet Patil','Me karto handle issue.','10/10/2020',true),
+//     RecentChatItemModel('resources/user2.jpeg','Ashutosh Mhatre','Devala manat nahi pan tula manato.','10/10/2020',false),
+//     RecentChatItemModel('resources/user4.jpeg','Nishant Kate','Ma','10/10/2020',false),
+//     RecentChatItemModel('resources/user3.jpeg','Mamita Mokal','Lorem ipsum dolor sit amet.','10/10/2020',true),
     RecentChatItemModel('resources/user5.jpeg','Lokesh Patil','That\'s what she said','10/10/2020',true),
     RecentChatItemModel('resources/user6.jpeg','Weird Guy','Kind of Weird.','10/10/2020',true),
     RecentChatItemModel('resources/user7.jpg','Jon Snow','I don\'t want it','10/10/2020',true),
