@@ -1,4 +1,4 @@
-alert("Currently Not Optimized For Smartphones"); 
+alert("Currently implementations are not completed"); 
 
 // Some Html Elements
 const divRecentChat = document.querySelector('.recentChats');
